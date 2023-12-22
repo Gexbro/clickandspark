@@ -358,7 +358,16 @@ ul{
 }
 
 /*responsive*/
+
 @media(max-width: 477px){
+    .hero-content h1 {
+        font-size: 20px;
+       
+    }
+    .hero-content p {
+        font-size: 12px;
+        margin-bottom: 30px;
+    }  
   .footer-col{
     width: 100%;
 }
@@ -405,5 +414,3 @@ button {
 }
 
 }
-
-
